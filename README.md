@@ -1,1 +1,2 @@
-# human-resource-analysis
+# HR-Analytics
+Human Resource Analytics using Bokeh Data Visualization
